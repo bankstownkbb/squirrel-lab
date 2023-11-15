@@ -1,5 +1,4 @@
-USER <user>[:<group>]
-
+USER 1000
 name: labs-validator
 on:
   push:
