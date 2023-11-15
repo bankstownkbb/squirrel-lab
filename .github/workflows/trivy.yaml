@@ -18,4 +18,4 @@ jobs:
         env:
           LABS_AUTH: '${{secrets.LABS_AUTH}}'
 
-USER 1000
+
